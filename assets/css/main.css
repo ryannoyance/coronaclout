@@ -3907,4 +3907,16 @@
 				padding: 2em 1em 0.1em 1em;
 			}
 
-		}
+    }
+
+    .actions {
+      text-align: left;
+    }
+    .actions label {
+      margin-left: 24px;
+      padding-top: 4px;
+    }
+
+    .features ul {
+      text-align: left;
+    }
