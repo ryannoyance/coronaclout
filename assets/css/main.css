@@ -2232,14 +2232,14 @@
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #00cdcf;
+		background-color: #cc251d;
 		border-color: #fff;
 		color: #fff;
 	}
 
 	input[type="checkbox"]:focus + label:before,
 	input[type="radio"]:focus + label:before {
-		border-color: #00cdcf;
+		border-color: #cc251d;
 		box-shadow: 0 0 0 1px #fff;
 	}
 
@@ -3411,21 +3411,21 @@
 
 				.wrapper.style3 input[type="checkbox"] + label:before,
 				.wrapper.style3 input[type="radio"] + label:before {
-					background: #00b4b5;
+					background: #cc251d;
 					border-color: #fff;
 				}
 
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
-				background-color: #00cdcf;
-				border-color: #00cdcf;
+				background-color: #cc251d;
+				border-color: #cc251d;
 				color: #ffffff;
 			}
 
 			.wrapper.style3 input[type="checkbox"]:focus + label:before,
 			.wrapper.style3 input[type="radio"]:focus + label:before {
-				border-color: #00cdcf;
-				box-shadow: 0 0 0 1px #00cdcf;
+				border-color: #cc251d;
+				box-shadow: 0 0 0 1px #cc251d;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
